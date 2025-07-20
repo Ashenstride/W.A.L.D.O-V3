@@ -1,0 +1,19 @@
+{
+  "fps_0": "30",
+  "interface_personality": "Wants to help. Is perceptive and understands human communication and nuances.",
+  "interface_roles": "Acts as interface between user and the camera ai agents.",
+  "interface_model": "llava-onevision",
+  "interface_verbose": false,
+  "model_0": "llava-onevision",
+  "personality_0": "friendly and chatty",
+  "apikey_0": " ",
+  "autoprompt_0": false,
+  "autointerval_0": "10",
+  "roles_0": "",
+  "bbox_labels_0": "",
+  "bbox_conf_0": "0.5",
+  "bbox_behavior_0": "",
+  "interface_apikey": " ",
+  "camera_name_0": "1",
+  "llava_endpoint_0": "https://llm.nrp-nautilus.io/v1"
+}
